@@ -1,0 +1,147 @@
+## 🎯 PROMPT LOVEABLE
+
+### Web Jasa Rental Alat Berat Lengkap
+
+**Bahasa Indonesia | Nuansa Orange Elegan | Profesional & Siap Closing**
+
+**Prompt:**
+
+> Buat sebuah **website jasa rental alat berat lengkap** menggunakan **bahasa Indonesia** yang profesional, meyakinkan, dan fokus menghasilkan **lead WhatsApp**.
+>
+> **Konsep Branding & Desain:**
+>
+> * Warna utama: **Orange tua / burnt orange**
+> * Warna pendukung: abu-abu gelap, hitam, putih
+> * Gaya: industrial, modern, premium, rapi
+> * Target user: kontraktor, perusahaan konstruksi, industri, developer, pabrik
+> * Tone copywriting: profesional, tegas, terpercaya
+>
+> ---
+>
+> ## 1. Hero Section
+>
+> * Headline kuat dan jelas, contoh:
+>   **“Jasa Rental Alat Berat Profesional & Terpercaya”**
+> * Subheadline: solusi sewa alat berat untuk proyek konstruksi & industri skala kecil hingga besar
+> * Tombol CTA utama: **“Hubungi Sales via WhatsApp”**
+> * CTA sekunder: **“Download Company Profile”**
+> * Background visual alat berat dengan overlay warna orange elegan
+>
+> ---
+>
+> ## 2. Tentang Perusahaan
+>
+> * Deskripsi singkat dan meyakinkan tentang perusahaan
+> * Tekankan pengalaman, kualitas unit, dan komitmen layanan
+> * Sertakan teks bold:
+>   **“Kami berdiri sejak tahun 1900”**
+> * Paragraf dibuat 3–4 paragraf agar terlihat profesional
+>
+> ---
+>
+> ## 3. Layanan & Daftar Alat Berat
+>
+> Tampilkan alat berat dalam **grid card modern** (gambar, nama alat, deskripsi singkat, tombol WhatsApp).
+>
+> **Daftar Alat Berat:**
+>
+> * Bucket Excavator
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df7dcbc64f8513e7b2bf_excavator-hitachi-zx200.png](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df7dcbc64f8513e7b2bf_excavator-hitachi-zx200.png)
+> * Vibro Roller
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df8a1cfc8ab28eac9a6a_vibro-sakai-sv612d.jpeg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df8a1cfc8ab28eac9a6a_vibro-sakai-sv612d.jpeg)
+> * Dozer
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df472ed4df362c75dad3_dozer-komatsu-d65.001.jpeg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df472ed4df362c75dad3_dozer-komatsu-d65.001.jpeg)
+> * Scissor Lift
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df36258085fac5b319b8_scissor-lift-14m-gs4047.jpeg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd7df36258085fac5b319b8_scissor-lift-14m-gs4047.jpeg)
+> * Boom Lift
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd93c538463a5db57b78505_boom-lift-16m-z45.001.jpeg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cd93c538463a5db57b78505_boom-lift-16m-z45.001.jpeg)
+> * AWP
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cf6774579a38fb6bec7855f_awp-40.jpg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5cf6774579a38fb6bec7855f_awp-40.jpg)
+> * Breaker Excavator
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5ee0a23a83610e7d5fd77907_breaker-komatsu-bg-clean.jpg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5ee0a23a83610e7d5fd77907_breaker-komatsu-bg-clean.jpg)
+> * Tandem Roller
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5d8e01b586d4c03c201b2dd2_tandem-roller-bomag.jpg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5d8e01b586d4c03c201b2dd2_tandem-roller-bomag.jpg)
+> * Plate Compactor
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5d8e01b5c33e9998b614e6dd_masterpac-plate-compactor.jpg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5d8e01b5c33e9998b614e6dd_masterpac-plate-compactor.jpg)
+> * Concrete Screed
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5d8e01b58f129f2d13ee6d5c_concrete-screed-ligchine.jpg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5d8e01b58f129f2d13ee6d5c_concrete-screed-ligchine.jpg)
+> * Forklift
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/6027b03122dc75933bba4426_doosan-d70s-5_1.png](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/6027b03122dc75933bba4426_doosan-d70s-5_1.png)
+> * Genset
+>   [https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5f9ec600b1a0422147a40c58_sdg25s-3b1.jpg](https://cdn.prod.website-files.com/5cd52e5790d2dee8a3a8b8c5/5f9ec600b1a0422147a40c58_sdg25s-3b1.jpg)
+>
+> Tombol pada tiap alat: **“Tanya Ketersediaan”** → WhatsApp Sales
+>
+> ---
+>
+> ## 4. Keunggulan Kami
+>
+> Tampilkan poin dengan ikon profesional:
+>
+> * Unit siap pakai & terawat
+> * Respon cepat
+> * Harga kompetitif
+> * Pengiriman tepat waktu
+> * Cocok untuk berbagai jenis proyek
+>
+> ---
+>
+> ## 5. Klien & Proyek
+>
+> * Section logo perusahaan atau proyek yang pernah dilayani
+> * Teks pendukung:
+>   *Dipercaya oleh berbagai perusahaan konstruksi dan industri*
+>
+> ---
+>
+> ## 6. Download Company Profile
+>
+> * Tombol download **Company Profile (PDF)**
+> * Didesain profesional dan mudah ditemukan
+>
+> ---
+>
+> ## 7. Form Pemesanan & Kontak
+>
+> Buat form dengan field:
+>
+> * Nama
+> * Nama Perusahaan / Proyek
+> * Nomor WhatsApp
+> * Jenis Alat Berat
+> * Durasi Sewa
+> * Lokasi Proyek
+> * Pesan Tambahan
+>
+> **Fungsi:**
+>
+> * Setelah submit, otomatis diarahkan ke WhatsApp Sales dengan pesan terformat
+> * Tetap tampil tombol **“Hubungi Sales via WhatsApp”**
+>
+> ---
+>
+> ## 8. CTA Penutup
+>
+> * Kalimat ajakan kuat untuk segera konsultasi dan booking
+> * Tombol WhatsApp ukuran besar
+>
+> ---
+>
+> ## 9. Footer
+>
+> * Nama perusahaan
+> * Layanan
+> * Kontak & WhatsApp
+> * Copyright
+>
+> ---
+>
+> **Kriteria Teknis:**
+>
+> * Responsif mobile & desktop
+> * Loading cepat
+> * Animasi ringan
+> * Struktur rapi dan profesional
+>
+> **Tujuan Website:**
+> Menghasilkan **lead WhatsApp**, membangun **kepercayaan**, dan terlihat **siap proyek secara profesional**.
